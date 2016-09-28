@@ -1,0 +1,24 @@
+Date: Fri, 28 Jul 1995 17:36:35 +0200
+From: pdn@cup.hp.com (Phil Noyes)
+Subject: www.win.tue.nl feedback form
+Reply-To: pdn@cup.hp.com (Phil Noyes)
+
+Here is some feedback in order to run rogue on an HP9000 system. You
+need to add the following compiler options. I modified the makefile as
+follows:
+
+HPUXFLAGS = -D_INCLUDE_HPUX_SOURCE \
+	    -D_INCLUDE_XOPEN_SOURCE \
+	    -D_INCLUDE_AES_SOURCE
+
+I must add one additional comment: HP-UX does not use an /etc/termcaps
+file, but a compiled file in /usr/lib/terminfo. Therefore, I may play
+around with trying to compile without the -DCURSES option. Otherwise,
+I'm not certain how my terminal will respond when playing the game.
+
+Hope this feedback helps.
+
+Regards,
+Phil Noyes
+Hewlett-Packard Company
+

@@ -1,0 +1,214 @@
+
+K32,M1,T1,E65,Y66,TAB25,JC
+ROGUE
+
+G6
+THE SCROLLS
+
+JL
+
+
+Scroll name	Message/Effect
+
+Vorpalize weapon	Your weapon gives off a flash of intense white light
+	Extra enchantment & attunes to a random monster.
+
+Enchant weapon	Your weapon glows blue for a moment
+	Weapon goes up one hit point (also removes curse)
+
+Enchant armor	Your armor glows faintly for a moment
+	Armor class goes up one notch (also removes curse)
+
+Monster confusion	Your hands begin to glow red
+	Hitting monster makes him confused
+
+Aggravate monster	You hear a high pitched humming noise
+	Causes monsters to seek and attack you
+
+Remove curse	You feel as if somebody is watching over you
+	Removes curses from items you're using
+
+Magic mapping	This scroll has a map on it
+	Completes the map for entire level
+
+Hold monster	You hear a faint cry of anguish in the distance
+	Freezes all monsters in room
+
+Scare monster	You hear maniacal laughter in the distance
+	Drop & stand on it. None will attack
+
+Identify	This scroll is an identify scroll
+	Allows/Forces you to identify any item you carry
+
+Sleep	You fall asleep
+	Briefly puts you to sleep so monsters may find you
+
+Teleportation	As you read the scroll, it vanishes (standard)
+	You teleport to another location & get confused
+
+Create monster	As you read the scroll, it vanishes (standard)
+	New monster appears in adjacent square
+
+Food detection	Your nose tingles as you sense food
+	Food on your level will be highlighted
+
+Blank paper	There is nothing on it to read
+	Does nothing
+
+G1
+
+
+JC
+THE POTIONS
+
+JL
+
+Potion name	Message/Effect
+
+Confusion	Wait, what's going on? Huh? What? Who?
+	You become confused, can't control your movement
+
+Paralysis	You can't move
+	You stay frozen momentarily (can use as weapon)
+
+See invisible	This potion tastes like slime mold juice
+	You see invisible phantoms if nearby
+
+Raise level	You suddenly feel much more skillful
+	Rank goes up one (save for later/harder ranks)
+
+Magic detection	You sense the presence of magic
+	Magical items on current level are highlighted
+
+Monster detection	No message displayed
+	All monsters on a level are briefly highlighted
+
+Gain strength	You feel stronger. What bulging muscles!
+	Strength goes up 1 point
+
+Restore strength	Hey! this tastes great! You feel warm all over
+	Restores strength to current maximum
+
+Extra healing	You begin to feel much better
+	Restores many hit points
+
+Healing	You feel better
+	Restores a few hit points
+
+Poison	You feel sick
+	Strength goes down some
+
+Haste self	You feel yourself moving much faster
+	Increases your ability to damage/avoid monsters
+
+Blindness	A cloak of darkness falls around you
+	Makes everything dark/invisible (heal potion fixes)
+
+Quench thirst	This potion has an extremely dull taste
+	Does nothing
+
+G1
+
+
+JC
+THE RINGS
+
+JL
+
+
+Ring name	Effect
+
+Aggravate monster	Causes monsters to seek and attack you (cursed)
+Maintain armor	Protects armor from Aquator attacks
+Sustain strength	Protects strength from Rattlesnake attacks
+See invisible	Causes Phantoms to be visible
+Slow digestion	Digests your food more slowly. Requires less eating
+Teleportation	Changes your location randomly (cursed)
+Increase damage	Raises or lowers damage you do depending on +/-
+Dexterity	Raises or lowers dexterity depending on +/- value
+Add strength	Raises or lowers strength depending on +/- value
+Protection	Raises or lowers armor class depending on +/- value
+Regeneration	Recovers lost hit points much faster
+Searching	Hidden objects (traps/doors) easier to locate
+Stealth	Keeps sleeping monsters asleep as you walk by
+Adornment	Does nothing
+
+
+
+JC
+THE STAFFS
+
+JL
+
+
+Staff name	Effect
+
+Drain life	Divides hits between all in room (including you)
+Light	Lights up a dark room
+Cancellation	Cancels out a monsters special power
+Haste monster	Causes a monster to speed up
+Slow monster	Causes a monster to slow down
+Teleport away	Causes a monster to be teleported away from you
+Teleport to	Effects unknown, suspect that this staff will cause 	a monster directly adjacent to your character in 	another room to teleport to you.
+Lightning	Shoots a bolt of lightning
+Polymorph	Changes one monster into another (maybe worse)
+Magic Missle	Fires a magic missle at a monster (medium light blow)
+Striking	Strikes a monster (heavy blow)
+Fire	Shoots a bolt of flame (usually misses)
+Cold	Shoots a sheet of ice (randomly freezes monster)
+Nothing	Does nothing
+
+G1
+
+
+JC
+OTHER GALACTIC STUFF
+
+JB
+
+
+Amulet is available for the first time on level 26. Once it is seen, if it is dropped or not picked up, it is lost forever.
+
+Every item you pick up in Rogue is worth something. If you are on your way out, your score will increase if you drop all items of lesser value like scrolls, potions and food, and try to replace them with items of greater value like rings and staffs. Remember that not all magical items are greater magic. For instance, the staff of drain life is fine if you are attacking one weak creature like a nymph, but if several monsters are in the room, especially several powerful ones, it becomes useless. Likewise, while the Potions of blindness, confusion, and paralysis can be thrown at monsters, their effects are usually minimal, so if you don't have enough room for them in your pack, dump them at the first opportunity.
+
+Once a scare monster scroll is dropped, it will be destroyed when you try to pick it up again, so use it only in life or death situations. You can use it again by grabbing all you can hold and then standing on it again. You will not be able to pick it up, but it will protect you again for as long as you stand on it.
+
+Most scrolls can be identified by the message you get when you read them. Some will not display this message in certain circumstances. For instance, if you read the food detection scroll when no food is available on your current level, it will merely vanish. The same applies to the hold monster scroll when no monsters are in the room. For this reason, and because some of the scrolls are much to valuable to waste until they are needed, it is often wise to use an identify scroll when possible.
+
+Only use one Vorpalize scroll per weapon. Vorpalizing the same weapon twice will overcharge & destroy it. If you find more than one Vorpalize scroll, use the second on your bow. It vastly increases the damage done by the arrows. A Vorpalized weapon is attuned to a random monster. Using the identify scroll, you can find out which monster, or if you simply wield the weapon, it will give off an intense flash when you're attacked by that particular monster. You can use the Vorpalized weapon to Zap and instantly kill that monster, but this magic only works once.
+
+Many monsters have special powers. The Rattlesnake can drain your strength, the Aquator can deplete your armor (but not damage you physically, so it is often most wise to remove your armor while traveling in levels 10 to 15), Medusa's gaze has the same effect as a confusion spell, Ice monsters throw balls of ice and Dragons breath flame. Some of these special powers can be countered with magical rings, but some, like the Vampire who saps your vitality, can't. There are the obvious ways of dealing with enemies like this, with a telport staff, a polymorph staff, a scare monster scroll, but the optimum method is with a staff of cancellation that will cancel out their special power. This is because the scare monster scroll is too valuable in a massive attack, the polymorph sometimes takes you out of the frying pan and dumps you neatly into the fire, and the teleport staff only gets rid of them till they catch up with you later.
+
+To gain the best advantage of magical items, gather as much as you can and save the game. At this point, copy a spare saved game onto another disk. Restore the saved game and identify all items. Potions can usually be identified by using the Quaff command. Scrolls can be identified either by paying close attention to the message that is displayed when reading it and matching it to the scroll table previously listed in this document or by using an identify scroll on them. Rings, weapons and most staffs must be identified with an identify scroll. Armor can be identified by wearing it. Identify as much as you can and write it down on paper. Quit the game and either use a reviving utility line Norton's or copy the copy you made when you originally saved the game back onto the master disk. Restore the saved game and use the Call command to name everything you have identified. Drop items known to be useless like cursed weapons and armor, then save the game and repeat this procedure until everything you have has been identified. You will usually end up with more than you can carry when using this method, so be very careful about what items you keep. Throw away items of marginal use the the poison or confusion potions and get rid of anything completely useless like the create monster scroll or staff of haste monster. Keep items of possible future use like the ring of teleportation (you may find a remove curse scroll) as long as possible, as they become very valuable when you are running from the really powerful creatures like the griffins.
+
+
+
+JC
+CHEATS
+
+DEALING WITH THE MONSTERS
+
+JB
+
+The monster sectors are 245 & 246 on the disk, they are 13 & 14 relative to the ROGUE.SAV file. After each monster, is the relative hit damage it can do to you. For instance, the 0d0/0d0 after the Aquator indicates that it is a medium level monster that is found starting around level 10 and not seen much higher than level 15. You can tell that it's a medium level monster because there are two sets of numbers. The high level monsters have 3 sets of numbers and the low level ones have 1 set. The 0's mean that the Aquator's hits do you no physical damage. The number after the hobgoblin is 1d8, which means that it can do up to 8 points of damage per hit. The series of numbers following the griffin is 4d3/3d5/4d3. I'm not sure how this is figured, but I assume it means that the griffin (if it hits you) does a minimum of 11 damage points and a maximum of 22 per hit. As you can see, this is a very bad character. However, he can be made somewhat less than bad by changing that first 4d3 to a 0d0 and following it with 8 pairs of hex 0's. This won't make him easier to damage because it seems to take about the same number of hits to destroy all the monsters, but it will certainly make his hits less devastating to you.
+
+
+JC
+THE HIGH SCORE SECTOR
+
+JB
+
+The high score sector is 231 on the disk, it is of course, relative sector 1 to the ROGUE.SCR file. There are 10 records. Up to 23 bytes are allowed for a name, and everything else is stored relative to the end of the name. For instance, the 27th byte after the end of the name is your final rank. The 30th and 31st bytes relative to the end of the name indicate how much gold you ended up with (in other words, your score). These two bytes are stored in a hexidecimal LSB/MSB format. The 32nd relative byte indicates whether you were killed in the maze and whether you died with honors (found the amulet).
+
+
+JC
+PERSONAL INFORMATION
+
+JB
+
+Your character name is stored toward the end of sector 231 on the disk, sector 1 relative to the ROGUE.SCR file. It is stored in ASCII and can be overwritten with any utility that allows you to make ASCII changes to the sector. Personal information about your character is stored in sector 292 on the disk, or sector 60 relative to the ROGUE.SAV file. You can raise your hit or strength points briefly by raising the appropriate numbers, but the program retains them elsewhere so they revert to normal whenever the program makes a change in their status. I'm trying to find out where else they are stored, but have had no success so far because they are not in an ASCII format.
+
+NOTE: When I refer to a sector being somewhere "on the disk", I am of course, referring to where the file is on my own disk. Use Norton utilities to find where the file resides on your disk and then use the sector number relative to the file to find the sector you need.
+
+  
+
