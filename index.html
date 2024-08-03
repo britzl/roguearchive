@@ -30,7 +30,7 @@ title: The Rogue Archive
 
 		<div class="row">
 			<div class="twelve columns">
-		{%- for c in site.data.files -%}
+		{%- for c in site.data.files.categories -%}
 			CATEGORY {{ c.category }}
 		{%- endfor -%}
 			</div>
