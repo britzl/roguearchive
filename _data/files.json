@@ -2,6 +2,7 @@
 	"categories": [
 		{
 			"category": "Rogue",
+			"comment": "",
 			"entries": [
 				{ "name": "Rogue 1.0 by Epyx (TRS-80 CoCo3)", "file": "files/roguecoco3.zip", "filename": "roguecoco3.zip", "comment": "The 1.0 exes were probably cracked by different people at different times. The exes differ 13 bytes in size." },
 				{ "name": "Rogue 1.0 by Jon Lane (DOS)", "file": "files/rogue1_0.zip", "filename": "rogue1_0.zip", "comment": " (Mr. Mctesq was here). The 1.0 exes were probably cracked by different people at different times. The exes differ 13 bytes in size." },
