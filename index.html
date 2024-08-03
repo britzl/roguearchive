@@ -18,7 +18,7 @@ title: The Rogue Archive
 				<h4>{{ c.category }}</h4>
 				<p>{{ c.comment }}</p>
 				{%- for e in c.entries -%}
-				<p>{{ e.name}} - <a href="{{ e.file }}">{{ e.filename }}</a><em>({{ e.comment }})</em></p>
+				<p>{{ e.name}} - <a href="{{ e.file }}">{{ e.filename }}</a> <em>{{ e.comment }}</em></p>
 				{%- endfor -%}
 			</div>
 		</div>
