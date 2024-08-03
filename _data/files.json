@@ -21,6 +21,8 @@
 				{ "name": "Rogue 1.48 by Epyx (Source)", "file": "files/EpyxRogueDOS148Source.zip", "filename": "EpyxRogueDOS148Source.zip", "comment": "" },
 				{ "name": "Rogue 1.49 by Epyx (DOS)", "file": "files/EpyxRogueDOS149.zip", "filename": "EpyxRogueDOS149.zip", "comment": "" },
 				{ "name": "Rogue 1.49", "file": "files/EpyxRogueDOS149-with-savegames.zip", "filename": "EpyxRogueDOS149-with-savegames.zip", "comment": "This version contains save games for the Infinite Scare Monster Experience trick described here: https://www.youtube.com/watch?v=NomqZ7EnxpI" },
+				{ "name": "Rogue 1.49", "file": "files/Rogue (1986) (v1.49) (180K) [cp] [M]", "filename": "Rogue (1986) (v1.49) (180K) [cp] [M]", "comment": "From Epyx PC Floppy Disk Image Collection (https://archive.org/details/20230515_20230515_0638) with notes: 1 disk  (180K), ROGUE.SCR added, ROGUE1.SAV added, OLD.BAT added, AARON.BAT added, ROGUE.SAV added and then deleted." },
+				{ "name": "Rogue 1.49", "file": "files/Rogue (1988) (v1.49) (360K) [!]", "filename": "Rogue (1988) (v1.49) (360K) [!]", "comment": "From Epyx PC Floppy Disk Image Collection (https://archive.org/details/20230515_20230515_0638)" },
 				{ "name": "Rogue ?.? by Epyx (Mac) (from mac.the-underdogs.org)", "file": "files/rogue.SIT", "filename": "rogue.SIT", "comment": "" },
 				{ "name": "Rogue ?.? (Mac)", "file": "files/mac-rogue-30.hqx", "filename": "mac-rogue-30.hqx", "comment": "" },
 				{ "name": "Rogue by Epyx (Atari ST)", "file": "files/rogueat.zip", "filename": "rogueat.zip", "comment": "" },
