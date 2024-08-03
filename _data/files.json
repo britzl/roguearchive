@@ -84,7 +84,7 @@
 				{ "name": "Rogue Clone ver II (Source, PSP)", "file": "files/Rogue_v1_01-src.zip", "filename": "Rogue_v1_01-src.zip", "comment": "" },
 				{ "name": "Rogue Clone ver III (Mac)", "file": "files/roguemac.zip", "filename": "roguemac.zip", "comment": "" },
 				{ "name": "Rogue Clone III (Source)", "file": "files/from_bsd_4_3_rogue5.3.zip", "filename": "from_bsd_4_3_rogue5.3.zip", "comment": "" },
-				{ "name": "Rogue Clone III (Source), minor changes to above", "file": "files/from_bsd_4_4_rogue5.3.zip", "filename": "from_bsd_4_4_rogue5.3.zip", "comment": "" },
+				{ "name": "Rogue Clone III (Source), minor changes to above", "file": "files/from_bsd_4_4_rogue5.3.zip", "filename": "from_bsd_4_4_rogue5.3.zip", "comment": "" }
 			]
 		},
 		{
@@ -101,7 +101,7 @@
 				{ "name": "Ultra Rogue 1.0.7 (DJGPP)", "file": "files/urogue1.0.7-djgpp.zip", "filename": "urogue1.0.7-djgpp.zip", "comment": "" },
 				{ "name": "Ultra Rogue 1.0.7 (SFU/Interix)", "file": "files/urogue1.0.7-interix.tar.gz", "filename": "urogue1.0.7-interix.tar.gz", "comment": "" },
 				{ "name": "Ultra Rogue 1.0.7 (Linux)", "file": "files/urogue1.0.7-linux.tar.gz", "filename": "urogue1.0.7-linux.tar.gz", "comment": "" },
-				{ "name": "Ultra Rogue 1.0.7 (Source)", "file": "files/urogue1.0.7-src.tar.gz", "filename": "urogue1.0.7-src.tar.gz", "comment": "" },
+				{ "name": "Ultra Rogue 1.0.7 (Source)", "file": "files/urogue1.0.7-src.tar.gz", "filename": "urogue1.0.7-src.tar.gz", "comment": "" }
 			]
 		},
 		{
@@ -115,7 +115,7 @@
 				{ "name": "XRogue 8.0.2 (Linux)", "file": "files/xrogue8.0.2-linux.tar.gz", "filename": "xrogue8.0.2-linux.tar.gz", "comment": "" },
 				{ "name": "XRogue 8.0.2 (Mac OSX)", "file": "files/xrogue8.0.2-src-macosxbinary.tar.gz", "filename": "xrogue8.0.2-src-macosxbinary.tar.gz", "comment": " (also sourcecode)" },
 				{ "name": "XRogue 8.0.2 (Source)", "file": "files/xrogue.zip", "filename": "xrogue.zip ", "comment": "" },
-				{ "name": "XRogue 8.0.2 (Source)", "file": "files/xrogue8.0.2-src.tar.gz", "filename": "xrogue8.0.2-src.tar.gz", "comment": "" },
+				{ "name": "XRogue 8.0.2 (Source)", "file": "files/xrogue8.0.2-src.tar.gz", "filename": "xrogue8.0.2-src.tar.gz", "comment": "" }
 			]
 		},
 		{
@@ -127,7 +127,7 @@
 				{ "name": "Super Rogue 9.0.1 (DJGPP)", "file": "files/srogue9.0-1-djgpp.zip", "filename": "srogue9.0-1-djgpp.zip", "comment": "" },
 				{ "name": "Super Rogue 9.0.1 (SFU/Interix)", "file": "files/srogue9.0-1-interix.tar.gz", "filename": "srogue9.0-1-interix.tar.gz", "comment": "" },
 				{ "name": "Super Rogue 9.0.1 (Linux)", "file": "files/srogue9.0-1-linux.tar.gz", "filename": "srogue9.0-1-linux.tar.gz", "comment": "" },
-				{ "name": "Super Rogue 9.0.1 (Source)", "file": "files/srogue9.0-1-src.tar.gz", "filename": "srogue9.0-1-src.tar.gz", "comment": "" },
+				{ "name": "Super Rogue 9.0.1 (Source)", "file": "files/srogue9.0-1-src.tar.gz", "filename": "srogue9.0-1-src.tar.gz", "comment": "" }
 			]
 		},
 		{
@@ -137,7 +137,7 @@
 				{ "name": "nanRogue 0.9 by Geoff Dunbar (ARM, PocketPC)", "file": "files/nanrogue_0_9_arm.zip", "filename": "nanrogue_0_9_arm.zip", "comment": "" },
 				{ "name": "nanRogue 0.9 by Geoff Dunbar (SH3)", "file": "files/nanrogue_0_9_sh3.zip", "filename": "nanrogue_0_9_sh3.zip", "comment": "" },
 				{ "name": "nanRogue 0.9 by Geoff Dunbar (MIPS)", "file": "files/nanrogue_0_9_mips.zip", "filename": "nanrogue_0_9_mips.zip", "comment": "" },
-				{ "name": "nanRogue 0.9 by Geoff Dunbar (Source)", "file": "files/nanrogue_0_9_src.zip", "filename": "nanrogue_0_9_src.zip", "comment": "" },
+				{ "name": "nanRogue 0.9 by Geoff Dunbar (Source)", "file": "files/nanrogue_0_9_src.zip", "filename": "nanrogue_0_9_src.zip", "comment": "" }
 			]
 		},
 		{
@@ -150,7 +150,7 @@
 				{ "name": "LinuxRogue 0.3 by Ashwin N (Source)", "file": "files/linuxrogue-0.3.tar.bz2", "filename": "linuxrogue-0.3.tar.bz2", "comment": "" },
 				{ "name": "LinuxRogue 0.3.1 by Ashwin N (Source)", "file": "files/linuxrogue-0.3.1.tar.bz2", "filename": "linuxrogue-0.3.1.tar.bz2", "comment": "" },
 				{ "name": "LinuxRogue 0.3.2 by Ashwin N (Source)", "file": "files/linuxrogue-0.3.2.tar.bz2", "filename": "linuxrogue-0.3.2.tar.bz2", "comment": "" },
-				{ "name": "Linux Rogue by Alan Cox based on Rogue 5.3-clone by Tim Stoehr (Source)", "file": "files/lrogue-5.3.zip", "filename": "lrogue-5.3.zip", "comment": "" },
+				{ "name": "Linux Rogue by Alan Cox based on Rogue 5.3-clone by Tim Stoehr (Source)", "file": "files/lrogue-5.3.zip", "filename": "lrogue-5.3.zip", "comment": "" }
 			]
 		},
 		{
@@ -162,7 +162,7 @@
 				{ "name": "Rog-O-Matic XIV", "file": "files/rogomatic.tar.Z", "filename": "rogomatic.tar.Z", "comment": " (altered but with same version number)" },
 				{ "name": "Rog-O-Matic XIV", "file": "files/rogomatic.tar.Z", "filename": "rogomatic.tar.Z", "comment": " (altered but with same version number)" },
 				{ "name": "Rog-O-Matic scientific paper 1983", "file": "files/misc/rogomatic.html", "filename": "rogomatic.html", "comment": "" },
-				{ "name": "Rog-O-Matic scientific paper 1984", "file": "files/misc/Rog-O-Matic - a belligerent expert system.pdf", "filename": "Rog-O-Matic - a belligerent expert system.pdf", "comment": "" },
+				{ "name": "Rog-O-Matic scientific paper 1984", "file": "files/misc/Rog-O-Matic - a belligerent expert system.pdf", "filename": "Rog-O-Matic - a belligerent expert system.pdf", "comment": "" }
 			]
 		},
 		{
@@ -185,7 +185,7 @@
 				{ "name": "iRogue 0.30 (Source)", "file": "files/irogue-src.zip", "filename": "irogue-src.zip", "comment": "iRogue is derived from two versions of rogue (rogue5.3-clone and urogue).http://roguelike-palm.sourceforge.net/iRogue/" },
 				{ "name": "Rogue 3.0 by Marco Pontil (Mac)", "file": "files/mac-rogue-30.zip", "filename": "mac-rogue-30.zip", "comment": "" },
 				{ "name": "CronosRogue by Cronos (Win32)", "file": "files/rogue.zip", "filename": "rogue.zip", "comment": "CronosRogue is based on LinuxRogue 0.1 (Rogue 5.3 Clone Pl2) but with several updates/patches. See release notes inside archive." },
-				{ "name": "Advanced SuperTurbo Rogue Plus (Win32+Source)", "file": "files/Rogue545_plus-v05.zip", "filename": "Rogue545_plus-v05.zip", "comment": " (from https://sourceforge.net/projects/advanced-superturbo-rogue-plus/)" },
+				{ "name": "Advanced SuperTurbo Rogue Plus (Win32+Source)", "file": "files/Rogue545_plus-v05.zip", "filename": "Rogue545_plus-v05.zip", "comment": " (from https://sourceforge.net/projects/advanced-superturbo-rogue-plus/)" }
 			]
 		},
 		{
