@@ -75,7 +75,7 @@
 			"category": "Rogue Clone ver I, II, III, IV",
 			"comment": "These are the original versions by Tim Stoehr and others for UNIX and similar systems, which were ported to various systems and used as the basis for modern versions.",
 			"entries": [
-				{ "name": "Rogue Clone ver II (DOS)", "file": "files/cbip_rogue.arc", "filename": "cbip_rogue.arc", "comment": "(original filename rogue.arc) Ported to DOS by Steve VanDevender and posted to comp.binaries.ibm.pc as "rogue.arc" on 1988-07-01" },
+				{ "name": "Rogue Clone ver II (DOS)", "file": "files/cbip_rogue.arc", "filename": "cbip_rogue.arc", "comment": "(original filename rogue.arc) Ported to DOS by Steve VanDevender and posted to comp.binaries.ibm.pc as \"rogue.arc\" on 1988-07-01" },
 				{ "name": "Rogue Clone ver II (DOS)", "file": "files/cbip_old_rogue.arc", "filename": "cbip_old_rogue.arc", "comment": "This is an earlier revision of the above \"rogue.arc\", posted sometime between March 1988 and June 1988." },
 				{ "name": "Rogue Clone ver II (DOS)", "file": "files/dosrogue.zip", "filename": "dosrogue.zip", "comment": "On 1998-08-12, Oliver Richman announced a DOS port of rogue on rgrr, and said to go to http://www.pathcom.com/%7Esimex/opr/index.html for sources. Now, there wasn't actually any sources, just a zipfile, http://www.pathcom.com/%7Esimex/opr/dosrogue.zip, with an .exe and a README. Then on 1998-08-18 he put up a new version with a TERMCAP file, and that is why the README says \"RELEASE 2\"." },
 				{ "name": "Rogue Clone ver II (Amiga)", "file": "files/rogue11.zip", "filename": "rogue11.zip", "comment": "" },
