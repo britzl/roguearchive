@@ -163,7 +163,6 @@
 				{ "name": "Rog-O-Matic", "file": "files/from_bsd_usenix87_RogOMatic.zip", "filename": "from_bsd_usenix87_RogOMatic.zip", "comment": "" },
 				{ "name": "Rog-O-Matic XIV", "file": "files/rgm14.tar.Z", "filename": "rgm14.tar.Z", "comment": "" },
 				{ "name": "Rog-O-Matic XIV", "file": "files/rogomatic.tar.Z", "filename": "rogomatic.tar.Z", "comment": " (altered but with same version number)" },
-				{ "name": "Rog-O-Matic XIV", "file": "files/rogomatic.tar.Z", "filename": "rogomatic.tar.Z", "comment": " (altered but with same version number)" },
 				{ "name": "Rog-O-Matic scientific paper 1983", "file": "files/misc/rogomatic.html", "filename": "rogomatic.html", "comment": "" },
 				{ "name": "Rog-O-Matic scientific paper 1984", "file": "files/misc/Rog-O-Matic - a belligerent expert system.pdf", "filename": "Rog-O-Matic - a belligerent expert system.pdf", "comment": "" }
 			]
