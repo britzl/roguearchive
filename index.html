@@ -55,6 +55,17 @@
       </div>
     </div>
 
+
+		<div class="row">
+			<div class="twelve columns">
+		{%- for c in site.data.files -%}
+			CATEGORY {{ c.category }}
+		{%- endfor -%}
+			</div>
+		</div>
+
+
+
 		<div class="row">
 			<div class="twelve columns">
 				<a name="rogue"></a><h4>Rogue</h4>

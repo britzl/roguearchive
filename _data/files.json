@@ -1,0 +1,204 @@
+{
+	"categories": [
+		{
+			"category": "Rogue",
+			"entries": [
+				{ "name": "Rogue 1.0 by Epyx (TRS-80 CoCo3)", "file": "files/roguecoco3.zip", "filename": "roguecoco3.zip", "comment": "The 1.0 exes were probably cracked by different people at different times. The exes differ 13 bytes in size." },
+				{ "name": "Rogue 1.0 by Jon Lane (DOS)", "file": "files/rogue1_0.zip", "filename": "rogue1_0.zip", "comment": " (Mr. Mctesq was here). The 1.0 exes were probably cracked by different people at different times. The exes differ 13 bytes in size." },
+				{ "name": "Rogue 1.0 , SN:1148 by Jon Lane (DOS)", "file": "files/ai_rogue_1.0.arj", "filename": "ai_rogue_1.0.arj", "comment": " (Mr. Mctesq was here, original filename rogue.arj). The 1.0 exes were probably cracked by different people at different times. The exes differ 13 bytes in size." },
+				{ "name": "Rogue 1.0 , SN:0 by Jon Lane (DOS)", "file": "files/ai_rogue_1.0.zip", "filename": "ai_rogue_1.0.zip", "comment": " (Mr. Mctesq was here, original filename: rogue.zip). This looks like an uncracked copy of v1.0. The exe differs from the other two 1.0 versions." },
+				{ "name": "Rogue 1.1 by Jon Lane (DOS)", "file": "files/rogue1_1.zip", "filename": "rogue1_1.zip", "comment": " (Mr. Mctesq was here).  One out of two different cracked 1.1 versions that differ 252 bytes in size." },
+				{ "name": "Rogue 1.1 by Jon Lane (DOS)", "file": "files/ai_rogue_1.1.zip", "filename": "ai_rogue_1.1.zip", "comment": " (SN:1349, Mr. Mctesq was here). One out of two different cracked 1.1 versions that differ 252 bytes in size." },
+				{ "name": "Rogue 1.1 (Source)", "file": "files/rog11src.zip", "filename": "rog11src.zip", "comment": "" },
+				{ "name": "Rogue \".1\" Beta Test by Jon Lane (DOS)", "file": "files/ai_rogue_.1_beta.zip", "filename": "ai_rogue_.1_beta.zip", "comment": " (Mr. Mctesq was here version, original filename: rogue.zip)" },
+				{ "name": "Rogue \".1\" Beta Test by Jon Lane (DOS)", "file": "files/rogueEasy.zip", "filename": "rogueEasy.zip", "comment": " (Faris was here, easy version). According to the contributor of these files: \"They are exactly the same game, but they appear to have been compiled with different difficulty settings, or one (or even both) is hacked. I *think* that the version in the \"easy\" directory is the hacked version, but I'm not sure.\"" },
+				{ "name": "Rogue \".1\" Beta Test by Jon Lane (DOS)", "file": "files/rogueHard.zip", "filename": "rogueHard.zip", "comment": " (Faris was here, hard version). According to the contributor of these files: \"They are exactly the same game, but they appear to have been compiled with different difficulty settings, or one (or even both) is hacked. I *think* that the version in the \"easy\" directory is the hacked version, but I'm not sure.\"" },
+				{ "name": "Rogue 1.45 by Epyx (DOS)", "file": "files/rogue1_4.zip", "filename": "rogue1_4.zip", "comment": "(Boudewijn was here) According to Boudewijn Waijers this was never a modified and recompiled version but merely a quick hack with a binary editor." },
+				{ "name": "Rogue 1.45 by Epyx (DOS)", "file": "files/rogueepyx.zip", "filename": "rogueepyx.zip", "comment": "(Boudewijn was here) According to Boudewijn Waijers this was never a modified and recompiled version but merely a quick hack with a binary editor." },
+				{ "name": "Rogue 1.48 by Epyx (Amiga)", "file": "files/amigarogue.zip", "filename": "amigarogue.zip", "comment": "" },
+				{ "name": "Rogue 1.48 by Epyx (DOS)", "file": "files/rogue-1.48.zip", "filename": "rogue-1.48.zip", "comment": "" },
+				{ "name": "Rogue 1.48 by Epyx (Source)", "file": "files/EpyxRogueDOS148Source.zip", "filename": "EpyxRogueDOS148Source.zip", "comment": "" },
+				{ "name": "Rogue 1.49 by Epyx (DOS)", "file": "files/EpyxRogueDOS149.zip", "filename": "EpyxRogueDOS149.zip", "comment": "" },
+				{ "name": "Rogue 1.49", "file": "files/EpyxRogueDOS149-with-savegames.zip", "filename": "EpyxRogueDOS149-with-savegames.zip", "comment": "This version contains save games for the Infinite Scare Monster Experience trick described here: https://www.youtube.com/watch?v=NomqZ7EnxpI" },
+				{ "name": "Rogue ?.? by Epyx (Mac) (from mac.the-underdogs.org)", "file": "files/rogue.SIT", "filename": "rogue.SIT", "comment": "" },
+				{ "name": "Rogue ?.? (Mac)", "file": "files/mac-rogue-30.hqx", "filename": "mac-rogue-30.hqx", "comment": "" },
+				{ "name": "Rogue by Epyx (Atari ST)", "file": "files/rogueat.zip", "filename": "rogueat.zip", "comment": "" },
+				{ "name": "Rogue by Mastertronic (Sinclair Spectrum)", "file": "files/roguesinclair.zip", "filename": "roguesinclair.zip", "comment": "" },
+				{ "name": "Rogue by Mastertronic (Amstrad CPC)", "file": "files/roguecpc.zip", "filename": "roguecpc.zip", "comment": "" },
+				{ "name": "Rogue by Mastertronic (C64)", "file": "files/rogue64.zip", "filename": "rogue64.zip", "comment": "" },
+				{ "name": "Rogue by David Goodenough (CP/M)", "file": "files/rogue17cpm.zip", "filename": "rogue17cpm.zip", "comment": "" },
+				{ "name": "Rogue II by Epyx (Atari ST)", "file": "files/rogue2at.zip", "filename": "rogue2at.zip", "comment": "" }
+			]
+		},
+		{
+			"category": "Rogue 3.6.x",
+			"comment": "According to the roguelike restoration project Rogue 3.6 was released on or about 06/16/1981 and was the first version of Rogue ever widely released.",
+			"entries": [
+				{ "name": "Rogue 3.6.1 (DOS)", "file": "files/rrogue36.zip", "filename": "rrogue36.zip", "comment": "" },
+				{ "name": "Rogue 3.6.2 (AIX)", "file": "files/rogue3.6.2-aix.tar.gz", "filename": "rogue3.6.2-aix.tar.gz", "comment": "" },
+				{ "name": "Rogue 3.6.2 (Cygwin)", "file": "files/rogue3.6.2-cygwin.tar.gz", "filename": "rogue3.6.2-cygwin.tar.gz", "comment": "" },
+				{ "name": "Rogue 3.6.2 (DJGPP)", "file": "files/rogue3.6.2-djgpp.zip", "filename": "rogue3.6.2-djgpp.zip", "comment": "" },
+				{ "name": "Rogue 3.6.2 (SFU/Interix)", "file": "files/rogue3.6.2-interix.tar.gz", "filename": "rogue3.6.2-interix.tar.gz", "comment": "" },
+				{ "name": "Rogue 3.6.2 (Linux)", "file": "files/rogue3.6.2-linux.tar.gz", "filename": "rogue3.6.2-linux.tar.gz", "comment": "" },
+				{ "name": "Rogue 3.6 (Source)", "file": "files/from_bsd_usenix87_rogue3.6.zip", "filename": "from_bsd_usenix87_rogue3.6.zip", "comment": "" },
+				{ "name": "Rogue 3.6 (Source)", "file": "files/rog36.tar", "filename": "rog36.tar", "comment": "" },
+				{ "name": "Rogue 3.6 (Source)", "file": "files/rog3.6.tar.Z", "filename": "rog3.6.tar.Z", "comment": "" },
+				{ "name": "Rogue 3.6.2 (Source)", "file": "files/rogue3.6.2-src.tar.gz", "filename": "rogue3.6.2-src.tar.gz", "comment": "" }
+			]
+		},
+		{
+			"category": "Rogue 5.2",
+			"comment": "According to the roguelike restoration project Rogue 5.2 was released on or about 04/11/1982.",
+			"entries": [
+				{ "name": "Rogue 5.2.1 (AIX)", "file": "files/rogue5.2.1-aix.tar.gz", "filename": "rogue5.2.1-aix.tar.gz", "comment": "" },
+				{ "name": "Rogue 5.2.1 (Cygwin)", "file": "files/rogue5.2.1-cygwin.tar.gz", "filename": "rogue5.2.1-cygwin.tar.gz", "comment": "" },
+				{ "name": "Rogue 5.2.1 (DJGPP)", "file": "files/rogue5.2.1-djgpp.zip", "filename": "rogue5.2.1-djgpp.zip", "comment": "" },
+				{ "name": "Rogue 5.2.1 (SFU/Interix)", "file": "files/rogue5.2.1-interix.tar.gz", "filename": "rogue5.2.1-interix.tar.gz", "comment": "" },
+				{ "name": "Rogue 5.2.1 (Linux)", "file": "files/rogue5.2.1-linux.tar.gz", "filename": "rogue5.2.1-linux.tar.gz", "comment": "" },
+				{ "name": "Rogue 5.2 (Source)", "file": "files/from_bsd_pdp11_file8_rogue5.2.zip", "filename": "from_bsd_pdp11_file8_rogue5.2.zip", "comment": "" },
+				{ "name": "Rogue 5.2.1 (Source)", "file": "files/rogue5.2-1-src.tar.gz", "filename": "rogue5.2-1-src.tar.gz", "comment": "" },
+				{ "name": "Rogue 5.2 (Source), slightly modified by people at New Mexico Tech", "file": "files/from_bsd_usenix87_rogue5.3.zip", "filename": "from_bsd_usenix87_rogue5.3.zip", "comment": "" },
+				{ "name": "Rogue Clone 5.3 (Source)", "file": "files/rogue-libc5-ncurses.zip", "filename": "rogue-libc5-ncurses.zip", "comment": "" }
+			]
+		},
+		{
+			"category": "Advanced Rogue",
+			"comment": "According to the roguelike restoration project Advanced Rogue 5.8 was developed by a group of employees at AT&amp;T Bell Labs between 1984 and 1985. Michael Morgan and Ken Dalka appear to be among the semi-anonymous authors. AT&amp;T distributed Advanced Rogue through the AT&amp;T Toolchest for a time. Advanced Rogue 5.8 is based on the Rogue 3.6 source code with some additions from Super-Rogue. Advanced Rogue 5.8 was released on or about 01/03/1985.",
+			"entries": [
+				{ "name": "Advanced Rogue 5.8.1 (DJGPP)", "file": "files/arogue5.8-1-djgpp.zip", "filename": "arogue5.8-1-djgpp.zip", "comment": "" },
+				{ "name": "Advanced Rogue 5.8.1 (Linux)", "file": "files/arogue5.8-1-linux.tar.gz", "filename": "arogue5.8-1-linux.tar.gz", "comment": "" },
+				{ "name": "Advanced Rogue 5.8.1 (Win32)", "file": "files/arogue5.8-1-win32.zip", "filename": "arogue5.8-1-win32.zip", "comment": "" },
+				{ "name": "Advanced Rogue 5.8.1 (Source)", "file": "files/arogue5.8-1-src.tar.gz", "filename": "arogue5.8-1-src.tar.gz", "comment": "" }
+			]
+		},
+		{
+			"category": "Rogue Clone ver I, II, III, IV",
+			"comment": "These are the original versions by Tim Stoehr and others for UNIX and similar systems, which were ported to various systems and used as the basis for modern versions.",
+			"entries": [
+				{ "name": "Rogue Clone ver II (DOS)", "file": "files/cbip_rogue.arc", "filename": "cbip_rogue.arc", "comment": "(original filename rogue.arc) Ported to DOS by Steve VanDevender and posted to comp.binaries.ibm.pc as "rogue.arc" on 1988-07-01" },
+				{ "name": "Rogue Clone ver II (DOS)", "file": "files/cbip_old_rogue.arc", "filename": "cbip_old_rogue.arc", "comment": "This is an earlier revision of the above \"rogue.arc\", posted sometime between March 1988 and June 1988." },
+				{ "name": "Rogue Clone ver II (DOS)", "file": "files/dosrogue.zip", "filename": "dosrogue.zip", "comment": "On 1998-08-12, Oliver Richman announced a DOS port of rogue on rgrr, and said to go to http://www.pathcom.com/%7Esimex/opr/index.html for sources. Now, there wasn't actually any sources, just a zipfile, http://www.pathcom.com/%7Esimex/opr/dosrogue.zip, with an .exe and a README. Then on 1998-08-18 he put up a new version with a TERMCAP file, and that is why the README says \"RELEASE 2\"." },
+				{ "name": "Rogue Clone ver II (Amiga)", "file": "files/rogue11.zip", "filename": "rogue11.zip", "comment": "" },
+				{ "name": "Rogue Clone ver II (Source, Amiga)", "file": "files/rogue11Source.lha", "filename": "rogue11Source.lha", "comment": "" },
+				{ "name": "Rogue Clone ver II (PSP)", "file": "files/Rogue_v1_01.zip", "filename": "Rogue_v1_01.zip", "comment": "" },
+				{ "name": "Rogue Clone ver II (Source, PSP)", "file": "files/Rogue_v1_01-src.zip", "filename": "Rogue_v1_01-src.zip", "comment": "" },
+				{ "name": "Rogue Clone ver III (Mac)", "file": "files/roguemac.zip", "filename": "roguemac.zip", "comment": "" },
+				{ "name": "Rogue Clone III (Source)", "file": "files/from_bsd_4_3_rogue5.3.zip", "filename": "from_bsd_4_3_rogue5.3.zip", "comment": "" },
+				{ "name": "Rogue Clone III (Source), minor changes to above", "file": "files/from_bsd_4_4_rogue5.3.zip", "filename": "from_bsd_4_4_rogue5.3.zip", "comment": "" },
+			]
+		},
+		{
+			"category": "UltraRogue",
+			"comment": "According to the roguelike restoration project UltraRogue was developed by Herb Chong between 1985 and 1986. Mostly distributed in binary form and later an unoffical archive was commonly available (v1.0.3 8/13/1986). UltraRogue is based on the Rogue 3.6 and an early version of Advanced Rogue source code.",
+			"entries": [
+				{ "name": "Ultra Rogue (NextStep)", "file": "files/urognext.zip", "filename": "urognext.zip", "comment": "" },
+				{ "name": "Ultra Rogue 1.03 (DOS)", "file": "files/ur20.zip", "filename": "ur20.zip", "comment": "" },
+				{ "name": "Ultra Rogue 1.03 (Mac)", "file": "files/uroguemac.zip", "filename": "uroguemac.zip", "comment": "" },
+				{ "name": "Ultra Rogue 1.03 (Source)", "file": "files/uroguesrc.zip", "filename": "uroguesrc.zip", "comment": "" },
+				{ "name": "Ultra Rogue 1.0.5a (Source)", "file": "files/urogue.zip", "filename": "urogue.zip", "comment": "" },
+				{ "name": "Ultra Rogue 1.0.7 (AIX)", "file": "files/urogue1.0.7-aix.tar.gz", "filename": "urogue1.0.7-aix.tar.gz", "comment": "" },
+				{ "name": "Ultra Rogue 1.0.7 (Cygwin)", "file": "files/urogue1.0.7-cygwin.tar.gz", "filename": "urogue1.0.7-cygwin.tar.gz", "comment": "" },
+				{ "name": "Ultra Rogue 1.0.7 (DJGPP)", "file": "files/urogue1.0.7-djgpp.zip", "filename": "urogue1.0.7-djgpp.zip", "comment": "" },
+				{ "name": "Ultra Rogue 1.0.7 (SFU/Interix)", "file": "files/urogue1.0.7-interix.tar.gz", "filename": "urogue1.0.7-interix.tar.gz", "comment": "" },
+				{ "name": "Ultra Rogue 1.0.7 (Linux)", "file": "files/urogue1.0.7-linux.tar.gz", "filename": "urogue1.0.7-linux.tar.gz", "comment": "" },
+				{ "name": "Ultra Rogue 1.0.7 (Source)", "file": "files/urogue1.0.7-src.tar.gz", "filename": "urogue1.0.7-src.tar.gz", "comment": "" },
+			]
+		},
+		{
+			"category": "XRogue",
+			"comment": "According to the roguelike restoration project XRogue was developed by Robert Pietkivitch in 1991 for the AT&amp;T UNIX PC. XRogue 8.0 was completed 6/8/1991. XRogue is based on Advanced Rogue 7.8 which in turn is based on Rogue 3.6.",
+			"entries": [
+				{ "name": "XRogue 8.0.2 (AIX)", "file": "files/xrogue8.0.2-aix.tar.gz", "filename": "xrogue8.0.2-aix.tar.gz", "comment": "" },
+				{ "name": "XRogue 8.0.2 (Cygwin)", "file": "files/xrogue8.0.2-cygwin.tar.gz", "filename": "xrogue8.0.2-cygwin.tar.gz", "comment": "" },
+				{ "name": "XRogue 8.0.2 (DJGPP)", "file": "files/xrogue8.0.2-djgpp.zip", "filename": "xrogue8.0.2-djgpp.zip", "comment": "" },
+				{ "name": "XRogue 8.0.2 (SFU/Interix)", "file": "files/xrogue8.0.2-interix.tar.gz", "filename": "xrogue8.0.2-interix.tar.gz", "comment": "" },
+				{ "name": "XRogue 8.0.2 (Linux)", "file": "files/xrogue8.0.2-linux.tar.gz", "filename": "xrogue8.0.2-linux.tar.gz", "comment": "" },
+				{ "name": "XRogue 8.0.2 (Mac OSX)", "file": "files/xrogue8.0.2-src-macosxbinary.tar.gz", "filename": "xrogue8.0.2-src-macosxbinary.tar.gz", "comment": " (also sourcecode)" },
+				{ "name": "XRogue 8.0.2 (Source)", "file": "files/xrogue.zip", "filename": "xrogue.zip ", "comment": "" },
+				{ "name": "XRogue 8.0.2 (Source)", "file": "files/xrogue8.0.2-src.tar.gz", "filename": "xrogue8.0.2-src.tar.gz", "comment": "" },
+			]
+		},
+		{
+			"category": "Super Rogue",
+			"comment": "According to the roguelike restoration project Super-Rogue was developed by a group of employees at AT&amp;T Bell Labs between 1982 and 1983 with the public face of the group being Robert D. Kindelberger. Released internally and to friends were versions 6.5, 7.2, 8.0, 8.3, and culminating in 9.0 (circa 5/7/83 through 7/17/84). Super-Rogue 9.0 is based on the Rogue 3.6 source code.",
+			"entries": [
+				{ "name": "Super Rogue 9.0.1 (AIX)", "file": "files/srogue9.0-1-aix.tar.gz", "filename": "srogue9.0-1-aix.tar.gz", "comment": "" },
+				{ "name": "Super Rogue 9.0.1 (Cygwin)", "file": "files/srogue9.0-1-cygwin.tar.gz", "filename": "srogue9.0-1-cygwin.tar.gz", "comment": "" },
+				{ "name": "Super Rogue 9.0.1 (DJGPP)", "file": "files/srogue9.0-1-djgpp.zip", "filename": "srogue9.0-1-djgpp.zip", "comment": "" },
+				{ "name": "Super Rogue 9.0.1 (SFU/Interix)", "file": "files/srogue9.0-1-interix.tar.gz", "filename": "srogue9.0-1-interix.tar.gz", "comment": "" },
+				{ "name": "Super Rogue 9.0.1 (Linux)", "file": "files/srogue9.0-1-linux.tar.gz", "filename": "srogue9.0-1-linux.tar.gz", "comment": "" },
+				{ "name": "Super Rogue 9.0.1 (Source)", "file": "files/srogue9.0-1-src.tar.gz", "filename": "srogue9.0-1-src.tar.gz", "comment": "" },
+			]
+		},
+		{
+			"category": "nanRogue",
+			"comment": "According to the author nanRogue is based on rogue 5.3-clone. http://www.prankster.com/nanrogue",
+			"entries": [
+				{ "name": "nanRogue 0.9 by Geoff Dunbar (ARM, PocketPC)", "file": "files/nanrogue_0_9_arm.zip", "filename": "nanrogue_0_9_arm.zip", "comment": "" },
+				{ "name": "nanRogue 0.9 by Geoff Dunbar (SH3)", "file": "files/nanrogue_0_9_sh3.zip", "filename": "nanrogue_0_9_sh3.zip", "comment": "" },
+				{ "name": "nanRogue 0.9 by Geoff Dunbar (MIPS)", "file": "files/nanrogue_0_9_mips.zip", "filename": "nanrogue_0_9_mips.zip", "comment": "" },
+				{ "name": "nanRogue 0.9 by Geoff Dunbar (Source)", "file": "files/nanrogue_0_9_src.zip", "filename": "nanrogue_0_9_src.zip", "comment": "" },
+			]
+		},
+		{
+			"category": "Linux rogue",
+			"comment": "LinuxRogue is based on the original Rogue 5.3 Clone P12 . The original work for this was by Tim Stoehr on UNIX. It was ported to Linux by Steve Wilson. Alan Cox maintained LinuxRogue for prehistoric Linux kernels.",
+			"entries": [
+				{ "name": "LinuxRogue 0.2 by Ashwin N (Source)", "file": "files/linuxrogue-0.2.tar.bz2", "filename": "linuxrogue-0.2.tar.bz2", "comment": "" },
+				{ "name": "LinuxRogue 0.2.1 by Ashwin N (Source)", "file": "files/linuxrogue-0.2.1.tar.bz2", "filename": "linuxrogue-0.2.1.tar.bz2", "comment": "" },
+				{ "name": "LinuxRogue 0.2.2 by Ashwin N (Source)", "file": "files/linuxrogue-0.2.2.tar.bz2", "filename": "linuxrogue-0.2.2.tar.bz2", "comment": "" },
+				{ "name": "LinuxRogue 0.3 by Ashwin N (Source)", "file": "files/linuxrogue-0.3.tar.bz2", "filename": "linuxrogue-0.3.tar.bz2", "comment": "" },
+				{ "name": "LinuxRogue 0.3.1 by Ashwin N (Source)", "file": "files/linuxrogue-0.3.1.tar.bz2", "filename": "linuxrogue-0.3.1.tar.bz2", "comment": "" },
+				{ "name": "LinuxRogue 0.3.2 by Ashwin N (Source)", "file": "files/linuxrogue-0.3.2.tar.bz2", "filename": "linuxrogue-0.3.2.tar.bz2", "comment": "" },
+				{ "name": "Linux Rogue by Alan Cox based on Rogue 5.3-clone by Tim Stoehr (Source)", "file": "files/lrogue-5.3.zip", "filename": "lrogue-5.3.zip", "comment": "" },
+			]
+		},
+		{
+			"category": "Rog-O-Matic",
+			"comment": "Rog-O-Matic is a bot developed in 1981 to play and win Rogue, by four graduate students in the Computer Science Department at Carnegie-Mellon University in Pittsburgh: Andrew Appel, Leonard Hamey, Guy Jacobson and Michael Loren Mauldin.",
+			"entries": [
+				{ "name": "Rog-O-Matic", "file": "files/from_bsd_usenix87_RogOMatic.zip", "filename": "from_bsd_usenix87_RogOMatic.zip", "comment": "" },
+				{ "name": "Rog-O-Matic XIV", "file": "files/rgm14.tar.Z", "filename": "rgm14.tar.Z", "comment": "" },
+				{ "name": "Rog-O-Matic XIV", "file": "files/rogomatic.tar.Z", "filename": "rogomatic.tar.Z", "comment": " (altered but with same version number)" },
+				{ "name": "Rog-O-Matic XIV", "file": "files/rogomatic.tar.Z", "filename": "rogomatic.tar.Z", "comment": " (altered but with same version number)" },
+				{ "name": "Rog-O-Matic scientific paper 1983", "file": "files/misc/rogomatic.html", "filename": "rogomatic.html", "comment": "" },
+				{ "name": "Rog-O-Matic scientific paper 1984", "file": "files/misc/Rog-O-Matic - a belligerent expert system.pdf", "filename": "Rog-O-Matic - a belligerent expert system.pdf", "comment": "" },
+			]
+		},
+		{
+			"category": "Miscellaneous rogue versions",
+			"comment": "",
+			"entries": [
+				{ "name": "PocketRogue 0.92 by Takebayashi Tomoaki (PalmOS)", "file": "files/rogue_en_092.zip", "filename": "rogue_en_092.zip", "comment": "" },
+				{ "name": "TiRogue 0.1 by Christopher Waudby (TI-89)", "file": "files/tirogue.zip", "filename": "tirogue.zip", "comment": "" },
+				{ "name": "Rogue Darwin 1.0.0 (Source)", "file": "files/RogueDarwin.tar.gz", "filename": "RogueDarwin.tar.gz", "comment": "Command-line (Terminal) version of Rogue for Mac OSX using its default curses library." },
+				{ "name": "JavaRogue (from Hexatron.com)", "file": "files/rouge.jar", "filename": "rouge.jar", "comment": " (sic!) JavaRogue (from Hexatron.com), (Source)" },
+				{ "name": "JavaRogue (from Hexatron.com)", "file": "files/jrogue.zip", "filename": "jrogue.zip", "comment": " (sic!) JavaRogue (from Hexatron.com), (Source)" },
+				{ "name": "Old JavaRogue (from Hexatron.com)", "file": "files/oldrouge.jar", "filename": "oldrouge.jar", "comment": " (sic!)" },
+				{ "name": "HexRogue (from Hexatron.com)", "file": "files/hexrogue.jar", "filename": "hexrogue.jar", "comment": "" },
+				{ "name": "WinRogue 3.0 (from Hexatron.com)", "file": "files/win_ROGUE.ZIP", "filename": "win_ROGUE.ZIP", "comment": "WinRogue 3.0 seems to be based on Rogue Clone version III by Tim Stoehr" },
+				{ "name": "Rogue for Windows v0.1 by Geoff Dunbar (Win32)", "file": "files/winrogue_0_1.zip", "filename": "winrogue_0_1.zip", "comment": "According to the author WinRogue is based on rogue 5.3-clone. http://www.prankster.com/winrogue/" },
+				{ "name": "zRogue by Gevan Dutton (Z-Machine)", "file": "files/rogue.z5", "filename": "rogue.z5", "comment": "zRogue is based on the Rogue 5.3-clone" },
+				{ "name": "Krogue 0.9.5 (Linux, KDE)", "file": "files/krogue-0_9_5-1_i386.zip", "filename": "krogue-0_9_5-1_i386.zip", "comment": "" },
+				{ "name": "KRogue 0.9.5 (Source)", "file": "files/krogue-0_9_5.zip", "filename": "krogue-0_9_5.zip", "comment": "KRogue is a version of Rogue that works under the KDE desktop enviroment." },
+				{ "name": "iRogue 0.30 (PalmOS)", "file": "files/irogue.zip", "filename": "irogue.zip", "comment": "iRogue is derived from two versions of rogue (rogue5.3-clone and urogue).http://roguelike-palm.sourceforge.net/iRogue/" },
+				{ "name": "iRogue 0.30 (Source)", "file": "files/irogue-src.zip", "filename": "irogue-src.zip", "comment": "iRogue is derived from two versions of rogue (rogue5.3-clone and urogue).http://roguelike-palm.sourceforge.net/iRogue/" },
+				{ "name": "Rogue 3.0 by Marco Pontil (Mac)", "file": "files/mac-rogue-30.zip", "filename": "mac-rogue-30.zip", "comment": "" },
+				{ "name": "CronosRogue by Cronos (Win32)", "file": "files/rogue.zip", "filename": "rogue.zip", "comment": "CronosRogue is based on LinuxRogue 0.1 (Rogue 5.3 Clone Pl2) but with several updates/patches. See release notes inside archive." },
+				{ "name": "Advanced SuperTurbo Rogue Plus (Win32+Source)", "file": "files/Rogue545_plus-v05.zip", "filename": "Rogue545_plus-v05.zip", "comment": " (from https://sourceforge.net/projects/advanced-superturbo-rogue-plus/)" },
+			]
+		},
+		{
+			"category": "Miscellaneous rogue related content",
+			"comment": "",
+			"entries": [
+			]
+		},
+		{
+			"category": "",
+			"comment": "",
+			"entries": [
+			]
+		}
+	]
+}
