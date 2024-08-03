@@ -2,7 +2,7 @@
 	"categories": [
 		{
 			"category": "Rogue",
-			"comment": "",
+			"comment": "Rogue (also known as Rogue: Exploring the Dungeons of Doom) is a dungeon crawling video game by Michael Toy and Glenn Wichman with later contributions by Ken Arnold. Rogue was originally developed around 1980 for Unix-based minicomputer systems as a freely distributed executable. Commercial ports of the game for a range of personal computers were made by Toy, Wichman, and Jon Lane under the company A.I. Design and financially supported by the Epyx software publishers.",
 			"entries": [
 				{ "name": "Rogue 1.0 by Epyx (TRS-80 CoCo3)", "file": "files/roguecoco3.zip", "filename": "roguecoco3.zip", "comment": "The 1.0 exes were probably cracked by different people at different times. The exes differ 13 bytes in size." },
 				{ "name": "Rogue 1.0 by Jon Lane (DOS)", "file": "files/rogue1_0.zip", "filename": "rogue1_0.zip", "comment": " (Mr. Mctesq was here). The 1.0 exes were probably cracked by different people at different times. The exes differ 13 bytes in size." },
@@ -187,12 +187,6 @@
 				{ "name": "Rogue 3.0 by Marco Pontil (Mac)", "file": "files/mac-rogue-30.zip", "filename": "mac-rogue-30.zip", "comment": "" },
 				{ "name": "CronosRogue by Cronos (Win32)", "file": "files/rogue.zip", "filename": "rogue.zip", "comment": "CronosRogue is based on LinuxRogue 0.1 (Rogue 5.3 Clone Pl2) but with several updates/patches. See release notes inside archive." },
 				{ "name": "Advanced SuperTurbo Rogue Plus (Win32+Source)", "file": "files/Rogue545_plus-v05.zip", "filename": "Rogue545_plus-v05.zip", "comment": " (from https://sourceforge.net/projects/advanced-superturbo-rogue-plus/)" }
-			]
-		},
-		{
-			"category": "Miscellaneous rogue related content",
-			"comment": "",
-			"entries": [
 			]
 		},
 		{
