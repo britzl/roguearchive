@@ -187,7 +187,8 @@
 				{ "name": "iRogue 0.30 (Source)", "file": "files/irogue-src.zip", "filename": "irogue-src.zip", "comment": "iRogue is derived from two versions of rogue (rogue5.3-clone and urogue).http://roguelike-palm.sourceforge.net/iRogue/" },
 				{ "name": "Rogue 3.0 by Marco Pontil (Mac)", "file": "files/mac-rogue-30.zip", "filename": "mac-rogue-30.zip", "comment": "" },
 				{ "name": "CronosRogue by Cronos (Win32)", "file": "files/rogue.zip", "filename": "rogue.zip", "comment": "CronosRogue is based on LinuxRogue 0.1 (Rogue 5.3 Clone Pl2) but with several updates/patches. See release notes inside archive." },
-				{ "name": "Advanced SuperTurbo Rogue Plus (Win32+Source)", "file": "files/Rogue545_plus-v05.zip", "filename": "Rogue545_plus-v05.zip", "comment": " (from https://sourceforge.net/projects/advanced-superturbo-rogue-plus/)" }
+				{ "name": "Advanced SuperTurbo Rogue Plus (Win32+Source)", "file": "files/Rogue545_plus-v05.zip", "filename": "Rogue545_plus-v05.zip", "comment": " (from https://sourceforge.net/projects/advanced-superturbo-rogue-plus/)" },
+				{ "name": "10Rogue", "file": "files/10Rogue.zip", "filename": "10Rogue.zip", "comment": "This appears to be modified version of the 1983 Rogue release by Epyx. From https://archive.org/details/10Rogue1984CodebustersInc.AdventureRolePlayingRPG." }
 			]
 		},
 		{
